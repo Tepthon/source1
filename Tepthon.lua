@@ -9790,7 +9790,7 @@ local TestText = "  ❲ Tepthon 𝖲𝗈𝗎𝗋𝖼𝖾 ❳\n━─━─━─
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '٬ 𝑀𝐸𝐺𝐺𝐴 🕷 ٫', url = "https://t.me/Tepthon"}
+{text = '٬ 𝑇𝐸𝑃𝑇𝐻𝑂𝑁 ٫', url = "https://t.me/Tepthon"}
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -9803,7 +9803,7 @@ keyboardd.inline_keyboard = {
 {text = '❲ 𝖼𝗈𝖽𝖾𝗋 ❳', url = "https://t.me/P17_12"}
 },
 {
-{text = '٬ 𝑀𝐸𝐺𝐺𝐴 🕷 ٫', url = "https://t.me/Tepthon"},
+{text = '٬ 𝑇𝐸𝑃𝑇𝐻𝑂𝑁 ٫', url = "https://t.me/Tepthon"},
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -9825,7 +9825,7 @@ local TestText = "  ❲ Developers Bot ❳\n━─━─━─━─━─━─
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '٬ 𝑀𝐸𝐺𝐺𝐴 🕷 ٫', url = "https://t.me/Tepthon"}
+{text = '٬ 𝑇𝐸𝑃𝑇𝐻𝑂𝑁  ٫', url = "https://t.me/Tepthon"}
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -9944,7 +9944,7 @@ data = {
 {text = '•𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘•', data = msg.sender.user_id..'/help1'}, {text = ' •𝐀𝐃𝐌𝐈𝐍•', data = msg.sender.user_id..'/help2'}, 
 },
 {
-{text = '•𝑀𝑂𝐻𝐴𝑀𝑀𝐴𝐷•', data = msg.sender.user_id..'/help3'}, {text = '•𝐎𝐖𝐍𝐄𝐑•', data = msg.sender.user_id..'/help4'}, 
+{text = '•𝐎𝐑𝐈𝐆𝐈𝐍𝐀𝐓𝐎𝐑𝐒 •', data = msg.sender.user_id..'/help3'}, {text = '•𝐎𝐖𝐍𝐄𝐑•', data = msg.sender.user_id..'/help4'}, 
 },
 {
 {text = '•𝐃𝐄𝐕•', data = msg.sender.user_id..'/help5'}, {text = '•𝐆𝐀𝐌𝐄𝐒•', data = msg.sender.user_id..'/help6'}, 
